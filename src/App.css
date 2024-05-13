@@ -1,0 +1,16 @@
+.App {
+  text-align: left; 
+}
+
+.App-logo {
+  height: 20vmin; 
+}
+
+.App-header {
+  background-color: #fff; 
+  color: black; 
+}
+
+.App-link:hover {
+  color: red;
+}
